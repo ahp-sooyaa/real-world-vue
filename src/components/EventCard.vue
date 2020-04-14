@@ -6,6 +6,7 @@
     <div class="event-card -shadow">
       <span class="eyebrow">@ {{ event.time }} on {{ event.date }}</span>
       <h1 class="title">{{ event.title }}</h1>
+      <BaseIcon name="users" />
       <span>{{ event.attendees.length }} attending.</span>
     </div>
   </router-link>
@@ -22,6 +23,8 @@ export default {
         time: "6:00",
         attendees: [
           { id: 1, name: "aung" },
+          { id: 2, name: "kyaw" },
+          { id: 2, name: "kyaw" },
           { id: 2, name: "kyaw" }
         ]
       }
