@@ -25,7 +25,7 @@ const routes = [
     component: EventCreate
   },
   {
-    path: "/user/:userName",
+    path: "/user/:userName", //:userName is params so this can be called by $route.params
     name: "userName",
     component: User
   }
