@@ -85,111 +85,21 @@
       ]
     },
     {
-      "id": 1305223,
+      "id": 4321738,
       "user": {
         "id": "abc123",
         "name": "Adam Jahr"
       },
-      "category": "nature",
+      "category": "sustainability",
       "organizer": {
         "id": "abc123",
         "name": "Adam Jahr"
       },
-      "title": "blah",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 9177693,
-      "user": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "blah",
-      "description": "hello ",
-      "location": "location",
-      "date": "2020-04-09T08:32:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "id": 2575944,
-      "user": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "category": "animal welfare",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "second time",
-      "description": "description",
-      "location": "location",
-      "date": "2020-04-04T08:34:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "id": 8520851,
-      "user": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "category": "animal welfare",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "final",
-      "description": "final desc",
-      "location": "final event",
-      "date": "2020-04-23T09:50:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "id": 4043778,
-      "user": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "category": "housing",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "dfjakld",
-      "description": "djfkls",
-      "location": "dfjka",
-      "date": "2020-04-01T10:01:00.000Z",
-      "time": "10:00",
-      "attendees": []
-    },
-    {
-      "id": 1961059,
-      "user": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "category": "community",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "ppppp",
-      "description": "ddddd",
-      "location": "lllllll",
-      "date": "2020-04-21T10:05:00.000Z",
-      "time": "8:00",
+      "title": "Coding ",
+      "description": "Coding description",
+      "location": "At home",
+      "date": "2020-04-24T08:08:00.000Z",
+      "time": "3:00",
       "attendees": []
     }
   ]
